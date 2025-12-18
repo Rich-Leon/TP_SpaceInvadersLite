@@ -1,3 +1,4 @@
 La parte 2 se encuentra en un repositorio a parte en el siguiente Link https://github.com/Rich-Leon/Parte-2---Jugador-y-Marco, en la misma se dibujo un marco y nuestra nave con movimiento lateral.
 La parte 4 se encuentra en el siguiente Link https://github.com/Rich-Leon/Parte-4--Disparo-de-jugador en esta parte nuestra nave dispara, mientras nuestros enemigos descienden, aun no hay colisiones, daño, escena final ni contadores en pantalla que se agregaran en las partes 5 y finalmente la 6.
 Decidi crear un repositorio por cada parte dado un error que he cometido con la parte 2 al haber borrado el commit de la rama general para no cometer el mismo error y que se borre la Parte 3.
+La parte 5 se encuentra en el siguiente Link en esta anteultima parte se programaron las colisiones de nuestras balas con nuestros enemigos y el hud de puntaje https://github.com/Rich-Leon/Parte-5---Colision-con-enemigos-y-puntaje
